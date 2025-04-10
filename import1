@@ -1,0 +1,65 @@
+<products>
+ <product>
+<category-id>18277</category-id>
+<category-name>Caps, scarves for girls</category-name>
+<title>Suaugusiųjų bekraštė skrybėlė, madinga kaukolės kepurė, jūreivio dangtelis, moteriškas vienspalvis, susuktas rankogalis.</title>
+<title-ru>Шляпа без полей для взрослых, модная тюбетейка, матросская кепка, женская однотонная шляпа-ведро с закрученными манжетами, мужская регулируемая кепка с пряжкой</title-ru>
+<title-lv>Pieaugušo bezmalu cepure, modes galvaskausa vāciņš, jūrnieka vāciņš, sieviešu vienkrāsains, velmēts aproču kauss, vīriešu, regulējams sprādzes vāciņš</title-lv>
+<title-ee>Täiskasvanute servadeta müts, moodne pealuukübar, meremehe müts, naissoost ühevärviline valtsitud mansett ämbrikübar, meeste reguleeritav pandlaga müts</title-ee>
+<title-fi>Aikuisten Brimless Hat Muoti Pääkallohattu Merimies Lippalakki Naisten Yksivärinen Rullattu Cuff Bucket Hat Miesten Säädettävä Solki Lippalakki</title-fi>
+<long-description><p>100 % visiškai naujas ir aukštos kokybės</p>
+<p>Medžiaga: poliesteris</p>
+<p>Spalva: kaip paveikslėlyje</p>
+<p>Dydis: dangtelio perimetras yra apie 57 cm, dangtelio aukštis apie 8,5 cm.</p>
+<p>Konversija: 1 colis = 2,54 cm, 1 cm = 0,393 colio</p>
+<p>Pakuotė: 1 vnt.</p></long-description>
+<long-description-ru><p>100% абсолютно новый и качественный</p>
+<p>Материал:Полиэстер</p>
+<p>Цвет: как на картинке</p>
+<p>Размер: окружность кепки около 57 см, высота кепки около 8,5 см</p>
+<p>Преобразование: 1 дюйм = 2,54 см, 1 см = 0,393 дюйма</p>
+<p>Упаковка: 1 шт.</p></long-description-ru>
+<long-description-lv><p>100% pilnīgi jauns un augstas kvalitātes</p>
+<p>Materiāls: poliesters</p>
+<p>Krāsa: kā attēlā</p>
+<p>Izmērs: vāciņa apkārtmērs ir aptuveni 57 cm, vāciņa augstums ir aptuveni 8,5 cm.</p>
+<p>Reklāmguvums: 1 colla = 2,54 cm, 1 cm = 0,393 collas</p>
+<p>Iepakojums: 1 gab.</p></long-description-lv>
+<long-description-ee><p>100% uhiuus ja kvaliteetne</p>
+<p>Materjal: polüester</p>
+<p>Värv: nagu pildil</p>
+<p>Suurus: korgi ümbermõõt on umbes 57 cm, mütsi kõrgus on umbes 8,5 cm</p>
+<p>Teisendus: 1 toll = 2,54 cm, 1 cm = 0,393 tolli</p>
+<p>Pakend: 1 tk</p></long-description-ee>
+<long-description-fi><p>100 % upouusi ja korkealaatuinen</p>
+<p>Materiaali: polyesteri</p>
+<p>Väri: kuvana</p>
+<p>Koko: Lakin ympärysmitta on noin 57 cm, korkin korkeus noin 8,5 cm</p>
+<p>Muutos: 1 tuuma = 2,54 cm, 1 cm = 0,393 tuumaa</p>
+<p>Pakkaus: 1 kpl</p></long-description-fi>
+<colours>
+ <colour>
+ <images>
+ <image>
+<url>https://s.catch.com.au/images/product/0192/192902/6661e09453d1b242513571.jpg</url>
+<url>https://s.catch.com.au/images/product/0192/192903/6661e095da982160965945.jpg</url>
+</image>
+ </images>
+<modifications>
+ <modification>
+<weight>0.35</weight>
+<length>0.2</length>
+<height>0.1</height>
+<width>0.1</width>
+<attributes>
+ <barcodes>
+<barcode>9195917662401</barcode>
+<supplier-code>TPC-121176097</supplier-code>
+<manufacturer-code>TPC-121176097</manufacturer-code>
+</attributes>
+ </modification>
+</modifications>
+ </colour>
+ </colours>
+ </product>
+</products>
